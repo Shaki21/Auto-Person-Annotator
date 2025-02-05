@@ -1,4 +1,4 @@
-# 🛰️ Detekcija osoba s visine pomoću YOLOv8
+# 🛰️ Detekcija osoba s visine pomoću YOLOv8n
 
 ## 🔧 Instalacija
 
